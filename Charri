@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF: 1,  TIGO SPORTS +
+https://d24zg71546pjzz.cloudfront.net:443/out/v1/8487b3e109af4961810beeb2339c91e3/index_6.m3u8
+#EXTINF: 1,  Tigo Sport 
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1, MOVISTAR LaLIGA 
+http://starjktv.com:8080/best/best123/97740
+#EXTINF: 1, MOVISTAR LaLIGA 2
+http://starjktv.com:8080/best/best123/97741
+#EXTINF: 1, Liga de Campeones
+http://starjktv.com:8080/best/best123/97742
+#EXTINF: 1, Liga de Campeones2
+http://starjktv.com:8080/best/best123/97744
+#EXTINF: 1, Liga Premier
+http://starjktv.com:8080/best/best123/17188
+#EXTINF: 1, Sky Premier
+http://31.220.41.88:8081/live/skysports-premier-league.stream/chunks.m3u8
+#EXTINF: 1, Sky Football
+http://starjktv.com:8080/best/best123/17682
+#EXTINF: 1, Sky Latino
+http://23.237.132.90:8081/live/sky_sports_ehkjbqwe/chunks.m3u8
+#EXTINF: 1, DAZN 1 Alemania
+http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF: 1, DAZN 2 Alemania
+http://stream.tvtap.live:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF: 1, ESPN ARG
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
+#EXTINF: 1, ESPN2 ARG 
+http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
+#EXTINF: 1, El Canal del Futbol
+http://23.237.132.90:8081/live/el_canal_de_futbol/playlist.m3u8
+#EXTINF: 1, GOL TV ECUADOR
+http://195.181.163.39:8080/ECU-GOLTV/tracks-v1a1/mono.m3u8
+#EXTINF: 1, GOL PERÚ
+http://23.237.132.90:8081/live/gol_peru_sd/chunks.m3u8
+#EXTINF: 1, DIRECTV
+http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
+#EXTINF: 1, DIRECTV 2
+http://23.237.132.90:8081/live/DIRETV2_rejnaite/chunks.m3u8
+#EXTINF: 1, FUTV
+http://23.237.132.90:8081/live/futv/chunks.m3u8
